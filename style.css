@@ -1,0 +1,28 @@
+.body1{
+    background-image: url("Math Background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+title{
+    color: whitesmoke ;
+}
+h1{
+    color: whitesmoke ;
+}
+h3{
+    color: whitesmoke ;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#no1{
+    width: 40%;    
+}
+#no2{
+    width: 40%;
+}
